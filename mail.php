@@ -11,7 +11,7 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
         $mail->Host = 'mail.dev-ashanur.com';
         $mail->Port = 465;  
         $mail->Username = 'dev-php@dev-ashanur.com';
-        $mail->Password = 'KgbXx=YUM*4-';   
+        $mail->Password = '**********';   
    
    //   $path = 'reseller.pdf';
    //   $mail->AddAttachment($path);
